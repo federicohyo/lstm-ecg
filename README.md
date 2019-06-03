@@ -1,4 +1,4 @@
-# lstm-ecg  annotation (and segmentation) of the electrocardiogram (ECG) with a long short-term memory neural network. 
+# ecg QRS annotation (and segmentation) of the electrocardiogram (ECG) with a long short-term memory neural network. 
 
  
 ## Model

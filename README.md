@@ -56,4 +56,4 @@ Taddei A, Distante G, Emdin M, Pisani P, Moody GB, Zeelenberg C, Marchesi C. The
 
 ## More info? Feel free to cite!
 When using this resource, please cite the original publication: 
-F. Corradi, J. Buil, H. De Canniere, W. Groenendaal, P. Vandervoort. "Real Time Electrocardiogram Annotation with a Long Short Term Memory Neural Network", 2019 IEEE Biomedical Circuits and Systems Conference (BioCAS) Proceedings, Nara, Japan.
+F. Corradi, J. Buil, H. De Canniere, W. Groenendaal, P. Vandervoort. "Real Time Electrocardiogram Annotation with a Long Short Term Memory Neural Network", 2019 IEEE Biomedical Circuits and Systems Conference (BioCAS) Proceedings, Nara, Japan. (in press)

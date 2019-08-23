@@ -1,7 +1,10 @@
 # Real Time Electrocardiogram Annotation with a Long Short Term Memory Neural Network 
 
-A neural network model for automatic R-peak detection of ECG recordings that is compatible with wearable devices. 
-Trained with a loss function that maximizes F1 score. The model demonstrates high accuracy of in labeling the R-peak of QRS complexes of ECG signal of public available datasets (MITDB and EDB). 
+Here you will find code that describes a neural network model capable of labeling the R-peak of ECG recordings. This method has been tested on a wearable device as well as with public datasets.
+
+This code trains a neural network with a loss function that maximizes F1 score (binary position of peak in a string of 0's and 1's.).
+
+The model demonstrates high accuracy of in labeling the R-peak of QRS complexes of ECG signal of public available datasets (MITDB and EDB). 
 Results are compared with the gold standard method Pan-Tompkins. Our method demonstrates superior generalization performance across different datasets. 
 
 The network has been validated with data using an IMEC wearable device on an elderly population of patients which all have heart failure and co-morbidities. This demonstrates that the proposed solution is capable of performing close to human annotation 94.8% average accuracy, on single lead wearable data containing a wide variety of QRS and ST-T morphologies. 
@@ -50,3 +53,7 @@ Taddei A, Distante G, Emdin M, Pisani P, Moody GB, Zeelenberg C, Marchesi C. The
 ## Ipython notebook scripts:
    	train_lstm_edb.ipynb - works with European ST-T Dataset
     train_lstm_mitd.ipynb - works with MIT-BIH Arrhythmia Database 
+
+## More info? Feel free to cite!
+When using this resource, please cite the original publication: 
+F. Corradi, J. Buil, H. De Canniere, W. Groenendaal, P. Vandervoort. "Real Time Electrocardiogram Annotation with a Long Short Term Memory Neural Network", 2019 IEEE Biomedical Circuits and Systems Conference (BioCAS) Proceedings, Nara, Japan.

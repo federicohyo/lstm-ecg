@@ -1,4 +1,10 @@
-# R-PEAK and QRS annotation of electrocardiogram (ECG) signal with a long short-term memory neural network. 
+# Real Time Electrocardiogram Annotation with a Long Short Term Memory Neural Network 
+
+A neural network model for automatic R-peak detection of ECG recordings that is compatible with wearable devices. 
+Trained with a loss function that maximizes F1 score. The model demonstrates high accuracy of in labeling the R-peak of QRS complexes of ECG signal of public available datasets (MITDB and EDB). 
+Results are compared with the gold standard method Pan-Tompkins. Our method demonstrates superior generalization performance across different datasets. 
+
+The network has been validated with data using an IMEC wearable device on an elderly population of patients which all have heart failure and co-morbidities. This demonstrates that the proposed solution is capable of performing close to human annotation 94.8% average accuracy, on single lead wearable data containing a wide variety of QRS and ST-T morphologies. 
 
 ## DISCLAIMER
 

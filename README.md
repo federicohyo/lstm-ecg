@@ -32,3 +32,15 @@ You will need the following packages:
 - keras
 - numpy
 - scipy 
+
+## Datasets
+
+MIT-BIH Arrhythmia Database - https://physionet.org/content/mitdb/1.0.0/
+Goldberger AL, Amaral LAN, Glass L, Hausdorff JM, Ivanov PCh, Mark RG, Mietus JE, Moody GB, Peng C-K, Stanley HE. PhysioBank, PhysioToolkit, and PhysioNet: Components of a New Research Resource for Complex Physiologic Signals (2003). Circulation. 101(23):e215-e220.
+
+European ST-T Database - EDB
+Taddei A, Distante G, Emdin M, Pisani P, Moody GB, Zeelenberg C, Marchesi C. The European ST-T Database: standard for evaluating systems for the analysis of ST-T changes in ambulatory electrocardiography. European Heart Journal 13: 1164-1172 (1992).
+
+## Ipython notebook scripts:
+   	train_lstm_edb.ipynb - works with European ST-T Dataset
+    train_lstm_mitd.ipynb - works with MIT-BIH Arrhythmia Database 

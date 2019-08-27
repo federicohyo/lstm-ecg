@@ -9,10 +9,7 @@ Results are compared with the gold standard method Pan-Tompkins. Our method demo
 
 The network has been validated with data using an IMEC wearable device on an elderly population of patients which all have heart failure and co-morbidities. This demonstrates that the proposed solution is capable of performing close to human annotation 94.8% average accuracy, on single lead wearable data containing a wide variety of QRS and ST-T morphologies. 
 
-## DISCLAIMER
 
-The complete code will be committed after the review process.. ( to be entered after acceptance). Please stay tuned!
- 
 ## Model
 
 ```

@@ -51,6 +51,10 @@ Taddei A, Distante G, Emdin M, Pisani P, Moody GB, Zeelenberg C, Marchesi C. The
    	train_lstm_edb.ipynb - works with European ST-T Dataset
     train_lstm_mitd.ipynb - works with MIT-BIH Arrhythmia Database 
 
-## More info? Feel free to cite!
+## More info? 
+
 When using this resource, please cite the original publication: 
-F. Corradi, J. Buil, H. De Canniere, W. Groenendaal, P. Vandervoort. "Real Time Electrocardiogram Annotation with a Long Short Term Memory Neural Network", 2019 IEEE Biomedical Circuits and Systems Conference (BioCAS) Proceedings, Nara, Japan. (in press)
+
+F. Corradi, J. Buil, H. De Canniere, W. Groenendaal, P. Vandervoort. "Real Time Electrocardiogram Annotation with a Long Short Term Memory Neural Network",  2019 IEEE Biomedical Circuits and Systems Conference (BioCAS), Nara, Japan. 10.1109/BIOCAS.2019.8918723
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8918723
